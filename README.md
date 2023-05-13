@@ -1,6 +1,6 @@
 Red Dog Territory map
 ====
-[Live page](https://skyrossm.github.io/np-gangmap/)
+[Live page](https://steev93.github.io/rd-gangmap/)
 This interactive (Google) map shows you the location of current Red Dog territory/gang zones.
 
 ## How to submit new locations
