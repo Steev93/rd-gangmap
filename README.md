@@ -1,7 +1,7 @@
-NoPixel Territory map
+Red Dog Territory map
 ====
 [Live page](https://skyrossm.github.io/np-gangmap/)
-This interactive (Google) map shows you the location of current NoPixel territory/gang zones.
+This interactive (Google) map shows you the location of current Red Dog territory/gang zones.
 
 ## How to submit new locations
 1. Right click on the map to add points.
@@ -41,10 +41,3 @@ To [gta5-map](https://github.com/gta5-map) for [their work](https://github.com/g
 By starring this repository you attract contributors to invest time into maintaing it.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=skyrossm/np-gangmap&type=Date)](https://star-history.com/#skyrossm/np-gangmap)
-
-## Screenshots
-
-![screenshot-1](https://i.imgur.com/VavAdiG.jpg)
-![screenshot-2](https://i.imgur.com/978UDPW.jpg)
-![screenshot-3](https://i.imgur.com/ijtZIHO.jpg)
-![screenshot-4](https://i.imgur.com/VMuDSrK.png)
